@@ -1,0 +1,4 @@
+rootProject.name = 'mjc_sc'
+include 'core'
+include 'api'
+
