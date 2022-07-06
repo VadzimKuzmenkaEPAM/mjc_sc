@@ -1,9 +1,6 @@
-
-
 public class Utils {
 
     StingUtils stingUtils = new StingUtils ();
-String a = "12";
 
 
     boolean isAllPositiveNumbers(String... str) {
